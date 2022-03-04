@@ -1,0 +1,1 @@
+TipCalculator Project - A Simple Project where you can add the Bill  amount and Number of People sharing the bill. Based Upon The service it will Calculate the Tip Amount. So you need not to worry about calculations Enjoy Your Food because Tip Calculator is There For You Always 
